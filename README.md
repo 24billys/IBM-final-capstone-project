@@ -12,7 +12,7 @@ As a Data Analyst, you will be assisting with this initiative and have been task
 
  - Exploring Data
 
-## Module 2: Data Wrangling
+## Module 2: Data Wrangling (Python)
  
  - Finding Missing Values
 
@@ -24,14 +24,14 @@ As a Data Analyst, you will be assisting with this initiative and have been task
 
  - Normalizing Data
 
-## Module 3: Exploratory Data Analysis
+## Module 3: Exploratory Data Analysis (Python)
 Distribution
 
  - Outliers
 
  - Correlation
 
-## Module 4: Data Visualization
+## Module 4: Data Visualization ( Python matplotlib & turtle & IBM Cognos)
  
 
  - Visualizing Distribution of Data
@@ -42,8 +42,8 @@ Distribution
 
  - Comparison
 
-## Module 5: Dashboard Creation
+## Module 5: Dashboard Creation (IBM Cognos)
  - Dashboards
 
-## Module 6: Presentation of Findings
+## Module 6: Presentation of Findings (Power Point/ PDF)
  - Final Presentation
